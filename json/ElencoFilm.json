@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Edward Scissorhands",
+    "director": "Tim Burton",
+    "year": 1990,
+    "genre": ["Fantasy", "Sentimental"],
+
+    "duration": "1h 45m",
+    "actors": ["Johnny Depp", "Winona Ryder", "Dianne Wiest", "Alan Arkin"]
+  },
+
+  {
+    "title": "Nuovo Cinema Paradiso",
+    "director": "Giuseppe Tornatore",
+    "year": 1988,
+    "genre": "Drammatic",
+
+    "duration": "2h 53m",
+    "actors": [
+      "Salvatore Cascio",
+      "Philippe Noiret",
+      "Jacques Perrin",
+      "Marco Leonardi"
+    ]
+  },
+  {
+    "title": "Mr. Nobody",
+    "director": "Jaco Van Dormael",
+    "year": 2009,
+    "genre": ["Drammatic", "Sci-fi"],
+
+    "duration": "2h 18m",
+    "actors": ["Jared Leto", "Diane Kruger", "Sarah Polley", "Rhys Ifans"]
+  }
+]

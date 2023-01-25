@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Mainstream Sellout",
+    "artist": "Machine Gun Kelly",
+    "year": 2022,
+    "genre": "Pop-punk",
+    "totalTracks": 16,
+    "duration": "40:18",
+    "tracks": [
+      "Born with Horns",
+      "God Save Me",
+      "Maybe",
+      "Wall of Fame (Interlude)",
+      "Mainstream Sellout",
+      "Drug Dealer",
+      "Make Up Sex",
+      "Emo Girl",
+      "5150",
+      "Papercuts",
+      "WW4",
+      "Ay!",
+      "Fake Love Don't Last",
+      "Die in California",
+      "Sid & Nancy",
+      "Twin Flame"
+    ]
+  },
+
+  {
+    "title": "Dangerous",
+    "artist": "Michael Jackson",
+    "year": 1991,
+    "genre": ["Contemporary", "R&B", "Pop", "New jack swing"],
+    "totalTracks": 14,
+    "duration": "76:53 ",
+    "tracks": [
+      "Jam",
+      "Why You Wanna Trip on Me",
+      "In the Closet ",
+      "She Drives Me Wild",
+      "Remember the Time",
+      "Can't Let Her Get Away",
+      "Heal the World",
+      "Black or White",
+      "Who Is It",
+      "Give In to Me",
+      "Will You Be There",
+      "Keep the Faith",
+      "Gone Too Soon",
+      "Dangerous"
+    ]
+  },
+
+  {
+    "title": "A Beautiful Lie",
+    "artist": "Thirty Seconds To Mars",
+    "year": 2005,
+    "genre": ["Alternative Rock", "Emo"],
+    "totalTracks": 12,
+    "duration": "56:12 ",
+    "tracks": [
+      "Attack",
+      "A Beautiful Lie",
+      "The Kill",
+      "Was It a Dream? ",
+      " The Fantasy",
+      " Savior",
+      " From Yesterday",
+      "The Story ",
+      "R-Evolve",
+      " A Modern Myth "
+    ]
+  }
+]
